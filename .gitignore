@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# visual studio 제외
+ProgrammingTest/.vs/
+ProgrammingTest/Debug/
+ProgrammingTest/ProgrammingTest/Debug/
+ProgrammingTest/ProgrammingTest/x64/
+ProgrammingTest/x64/
+*.pdb
+*.ilk
+*.idb
